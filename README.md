@@ -17,7 +17,10 @@
 </p>
 
 <p align="center">
-  <a href="assets/doit-demo.mp4"><strong>▶ Watch the demo video</strong></a>
+  <a href="https://www.youtube.com/watch?v=r8VGQkVhK-c"><img src="https://i.ytimg.com/vi/r8VGQkVhK-c/hqdefault.jpg" width="360" alt="Watch the DOIT!!! demo on YouTube"></a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=r8VGQkVhK-c"><strong>▶ Watch the demo on YouTube</strong></a>
+  · <a href="assets/doit-demo.mp4">download the video file</a>
 </p>
 
 ---
