@@ -74,6 +74,41 @@ Real captures of the app from the author's phone:
 <img src="assets/screenshot-04.jpg" width="330" alt="Reminder Alarm Sound, Voice Nudge and data management">
 <img src="assets/screenshot-05.jpg" width="330" alt="Settings — Indigo Expressive theme, Voice Reminder Speech">
 </p>
+<p>
+<img src="assets/screenshot-11.jpg" width="330" alt="Appearance and Themes — all Material Design packs, Light mode, Indigo Expressive">
+<img src="assets/screenshot-14.jpg" width="330" alt="Reminder Alarm Sound — Emerald Botanical theme, Custom Local Sound">
+</p>
+<p>
+<img src="assets/screenshot-15.jpg" width="330" alt="Edit Reminder — nag interval every 10 min, repeat 3 times, Voice Reminder on">
+<img src="assets/screenshot-13.jpg" width="330" alt="Reminder Alert — snooze 5 min to 2 hours, or Mark Task Done">
+</p>
+<p>
+<img src="assets/screenshot-16.jpg" width="330" alt="Reminder Alert over the task list — snooze or Mark Task Done">
+<img src="assets/screenshot-25.jpg" width="330" alt="Reminder Alert — Submit Q4 Product Roadmap, snooze options">
+</p>
+<p>
+<img src="assets/screenshot-26.jpg" width="330" alt="DOIT!!! task list — Indigo Expressive theme, Dark mode, permission banner">
+<img src="assets/screenshot-27.jpg" width="330" alt="DOIT!!! task list — Emerald Botanical theme, Dark mode, permission banner">
+</p>
+<p>
+<img src="assets/screenshot-12.jpg" width="330" alt="DOIT!!! task list — Steam Rust and Copper theme, permission banner">
+<img src="assets/screenshot-19.jpg" width="330" alt="DOIT!!! task list — Steam Rust and Copper theme, with completed tasks">
+</p>
+<p>
+<img src="assets/screenshot-17.jpg" width="330" alt="DOIT!!! task list — Sunset Terracotta theme, Light mode, with completed tasks">
+<img src="assets/screenshot-18.jpg" width="330" alt="DOIT!!! task list — Midnight Obsidian theme, with completed tasks">
+</p>
+<p>
+<img src="assets/screenshot-20.jpg" width="330" alt="DOIT!!! task list — Indigo Expressive theme, Light mode">
+<img src="assets/screenshot-21.jpg" width="330" alt="DOIT!!! task list — Emerald Botanical theme, Dark mode">
+</p>
+<p>
+<img src="assets/screenshot-22.jpg" width="330" alt="DOIT!!! task list — Midnight Obsidian theme, Dark mode">
+<img src="assets/screenshot-23.jpg" width="330" alt="DOIT!!! task list — Sunset Terracotta theme, Light mode">
+</p>
+<p>
+<img src="assets/screenshot-24.jpg" width="330" alt="DOIT!!! task list — Steam Rust and Copper theme, Dark mode">
+</p>
 
 ## Install
 
